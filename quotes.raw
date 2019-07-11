@@ -4,3 +4,7 @@ The first method is far more difficult. It demands the same skill, devotion, ins
 
 	-- C.A.R. Hoare, "The Emporor's Old Clothes"
 	   Communications of the ACM, 1981
+%
+If you can't write a function to determine if a given integral input is odd in under 10 seconds, you're either a crappy typist or *you shouldn't be programming*.
+
+	-- Brook Monroe, https://medium.com/p/b0b09bb11798/
