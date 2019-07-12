@@ -8,3 +8,11 @@ The first method is far more difficult. It demands the same skill, devotion, ins
 If you can't write a function to determine if a given integral input is odd in under 10 seconds, you're either a crappy typist or *you shouldn't be programming*.
 
 	-- Brook Monroe, https://medium.com/p/b0b09bb11798/
+%
+The Spirit of C:
+    (a) Trust the programmer. 
+    (b) Don't prevent the programmer from doing what needs to be done. 
+    (c) Keep the language small and simple. 
+    (d) Provide only one way to do an operation. 
+    (e) Make it fast, even if it is not guaranteed to be portable. 
+    (f) Make support for safety and security demonstrable. 
