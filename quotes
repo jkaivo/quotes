@@ -25,3 +25,9 @@ The Spirit of C:
     (d) Provide only one way to do an operation. 
     (e) Make it fast, even if it is not guaranteed to be portable. 
     (f) Make support for safety and security demonstrable. 
+%
+Permissible undefined behavior ranges from ignoring the situation completely 
+with unpredictable results, to having demons fly out of your nose.
+
+	-- John F. Woods, "Re: Why is this legal?"
+	   comp.std.c Message-ID: <10195@ksr.com>
