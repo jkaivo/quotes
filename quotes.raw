@@ -21,3 +21,7 @@ Permissible undefined behavior ranges from ignoring the situation completely wit
 
 	-- John F. Woods, "Re: Why is this legal?"
 	   comp.std.c Message-ID: <10195@ksr.com>
+%
+One of my most productive days was throwing away 1000 lines of code.
+
+	-- Ken Thompson in Eric S. Raymond's "The Art of UNIX Programming"
